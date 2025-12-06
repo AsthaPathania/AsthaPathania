@@ -19,7 +19,7 @@ I'm a passionate and driven Computer Science Engineering student currently in my
 - ⚙️ **C++** – Learning Data Structures and Algorithms (DSA)
 - 🐍 **Python** – Basic knowledge
 - 🌐 **HTML & CSS** – Confident in creating responsive web pages
-- 💻 **JavaScript & Java** – Currently learning
+- 💻 **JavaScript ** – Actively learning
 - 🤖 **Machine Learning** – Actively exploring
 
 ---
